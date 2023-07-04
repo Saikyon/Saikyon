@@ -1,9 +1,9 @@
 <h1 align="center">Seja Bem Vindo(a)</h1>
 <br>
 <div align="center">
-<img src="https://i.pinimg.com/originals/ee/70/0c/ee700cf9a8a814ad0995772a1b1d18da.png"  />
+<img src="https://comicvine.gamespot.com/a/uploads/original/11143/111434194/8842186-redditsave_com_mode_saitama-xq00gpncns591_adobeexpress.gif"  />
 <br>
-<a href="https://youtube.com/@SaikyoDev" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a><p>🦆 Desenvolvo chatbots para whatsapp 🦆</p>
+<a href="https://youtube.com/@SaikyoDev" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
 
 ### Tecnologias que eu uso no meu dia

@@ -37,3 +37,7 @@
 <div align="center">
 <a href="https://ibb.co/XLZJkb4"><img src="https://i.ibb.co/vqxzvHB/pngwing-com-1.png" alt="pngwing-com-1" border="0" /></a>
 </div>
+
+<p align="center">visitantes<br>
+<img src="https://profile-counter.glitch.me/Castlevnia1/count.svg" />
+</p>

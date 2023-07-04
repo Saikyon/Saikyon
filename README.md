@@ -27,7 +27,7 @@
  
 </div><br/>
 
-"somente 3 mais é suficiente para me divertir programando"
+"somente 7 mais é suficiente para me divertir programando"
 
 ## Estatísticas
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Saikyon&theme=ayu-mirage&hide_border=true)<br/>

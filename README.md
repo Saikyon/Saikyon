@@ -8,24 +8,15 @@
 
 ### Tecnologias que eu uso no meu dia
 
-</div>
-<div style="display inline_block"><br/>
-</div>
-<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-</div>
-<img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-</div>
-<img align="center" alt="NodeJs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-</div>
-<img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</div>
-<img align="center" alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
-</div>
-<img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</div>
-<img align="center" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
- 
-</div><br/>
+<p align="center">
+<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
+<img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" />
+<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
+<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> <br>
+<img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" />
+<img src="https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows" />
+<img src="https://img.shields.io/badge/-VS_Code-black?style=flat-square&logo=visual-studio-code" />
+</p>
 
 "somente 7 mais é suficiente para me divertir programando"
 

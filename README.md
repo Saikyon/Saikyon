@@ -1,3 +1,11 @@
+<h1 align="center">Seja Bem Vindo(a)</h1>
+<br>
+<div align="center">
+<img src="https://i.pinimg.com/originals/ee/70/0c/ee700cf9a8a814ad0995772a1b1d18da.png"  />
+<br>
+<a href="https://youtube.com/@SaikyoDev" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a><p>🦆 Desenvolvo chatbots para whatsapp 🦆</p>
+</div>
+
 ### Tecnologias que eu uso no meu dia
 
 </div>

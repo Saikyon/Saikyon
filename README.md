@@ -22,8 +22,8 @@
 um verdadeiro mestre é um eterno aprendiz
 
 ## Estatísticas
-![](https://github-readme-stats.vercel.app/api?username=Saikyon&theme=ayu-mirage&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Saikyon&theme=ayu-mirage&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Saikyon&theme=ayu-mirage&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saikyon&theme=ayu-mirage&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <div align="center">

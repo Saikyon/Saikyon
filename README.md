@@ -18,8 +18,6 @@
 <img src="https://img.shields.io/badge/-VS_Code-black?style=flat-square&logo=visual-studio-code" />
 </p>
 
-"somente 7 mais é suficiente para me divertir programando"
-
 ## Estatísticas
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Saikyon&theme=ayu-mirage&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=Saikyon&theme=ayu-mirage&hide_border=true&include_all_commits=false&count_private=false)<br/>

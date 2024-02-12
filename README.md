@@ -20,8 +20,7 @@
 
 ## Estatísticas
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Saikyon&theme=ayu-mirage&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api?username=Saikyon&theme=ayu-mirage&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saikyon&theme=ayu-mirage&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Saikyon&theme=ayu-mirage&hide_border=true&include_all_commits=false&count_private=false)
 
 <div align="center">
 <a href="https://ibb.co/XLZJkb4"><img src="https://i.ibb.co/vqxzvHB/pngwing-com-1.png" alt="pngwing-com-1" border="0" /></a>
